@@ -69,6 +69,7 @@
 @layer base {
   * {
     @apply border-border;
+    font-optical-sizing: auto;
   }
   body {
     @apply bg-background text-foreground;
