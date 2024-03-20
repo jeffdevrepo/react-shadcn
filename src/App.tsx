@@ -1,10 +1,9 @@
-import Navigation from "./components/navigation/navigation"
 
 function App() {
 
   return (
     <>
-      <Navigation />
+      <h1 className="font-bold text-2xl">Hello World!</h1>
     </>
   )
 }
